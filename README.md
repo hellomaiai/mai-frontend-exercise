@@ -2,7 +2,7 @@
 
 ## What to code
 
-The exercise is to build a simple front-end web application that has two screens: a user sign-up form, and a user admin screen.
+The exercise is to build a simple front-end web application that has two screens: a user sign-up form, and a user admin screen.  This should take you between 2-4 hours to complete.
 
 The user sign-up form should
 
@@ -15,10 +15,12 @@ The user admin screen should
 
 - Display each user's info in a simple format.  You can use a table, cards, or anything else you'd like.
 
+There is no specific design or wireframes for either of these screens.  Just make it look nice.  You do not need to create any custom graphics.  Feel free to utilize CSS frameworks if you prefer.
+
 
 ## Doing the exercise
 
-This repo is based on the vanilla `create-react-app` template that is meant to help you get started, but feel free to use a different boilerplate or start with a clean slate.  You shouldn't need to, but you may also add additional NPM libraries as you like.  It is often just as important to be able to combine various open source libraries into a cohesive product.
+This repo is based on the vanilla `create-react-app` template that is meant to help you get started, but feel free to use a different boilerplate or start with a clean slate.  You may also add additional NPM libraries as you like.  It is often just as important to be able to combine various open source libraries into a cohesive product.
 
 It is preferred for you to complete this exercise using ReactJS, but if you are unfamiliar, you are also welcome to use other frameworks like Angular or Vue.
 
