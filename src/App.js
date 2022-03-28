@@ -6,7 +6,11 @@ const App = () => (
 
     <section>
       <h2>What to code</h2>
-      <p>The exercise is to build a simple front-end web application that has two screens: a user sign-up form, and a user admin screen.</p>
+      <p>The exercise is to build a simple front-end web application that has two screens: a user sign-up form, and a user admin screen.  This should take you between 2-4 hours to complete.</p>
+
+      <p>Some sample screenshots have been provided but you are welcome to use your own design instead.  You do not need to create any custom graphics.  Feel free to utilize CSS frameworks if you prefer.</p>
+
+      <p>See <code>/examples/new_user.png</code> in the repo for a sample screenshot.</p>
 
       <p>The user sign-up form should</p>
 
@@ -17,13 +21,13 @@ const App = () => (
         <li>A submission should be rejected if the email address is already in use</li>
       </ul>
 
+      <p>See <code>/examples/user_list.png</code> in the repo for a sample screenshot.</p>
+
       <p>The user admin screen should</p>
 
       <ul>
         <li>Display each user's info in a simple format.  You can use a table, cards, or anything else you'd like.</li>
       </ul>
-
-      <p>There is no specific design or wireframes for either of these screens.  Just make it look nice.  You do not need to create any custom graphics.  Feel free to utilize CSS frameworks if you prefer.</p>
     </section>
     <section>
       <h2>Doing the exercise</h2>

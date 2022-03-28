@@ -4,6 +4,10 @@
 
 The exercise is to build a simple front-end web application that has two screens: a user sign-up form, and a user admin screen.  This should take you between 2-4 hours to complete.
 
+Some sample screenshots have been provided but you are welcome to use your own design instead.  You do not need to create any custom graphics.  Feel free to utilize CSS frameworks if you prefer.
+
+![New user screen](examples/new_user.png)
+
 The user sign-up form should
 
 - Accept the first name, last name, nickname, and email address
@@ -11,11 +15,11 @@ The user sign-up form should
 - Validate the email - a simple rule that follows `x@y.z` format
 - A submission should be rejected if the email address is already in use
 
+![User admin screen](examples/user_list.png)
+
 The user admin screen should
 
 - Display each user's info in a simple format.  You can use a table, cards, or anything else you'd like.
-
-There is no specific design or wireframes for either of these screens.  Just make it look nice.  You do not need to create any custom graphics.  Feel free to utilize CSS frameworks if you prefer.
 
 
 ## Doing the exercise
